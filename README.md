@@ -43,6 +43,7 @@ Install FsUnit 1.3.10
 ##### Remove Script.fsx and rename Component1.fs
 
 Remove Script.fsx
+
 Rename Component1.fs to e.g 'RomanNumeral.fs'
 
 Add code and unit tests in RomanNumeral.fs
