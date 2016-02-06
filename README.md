@@ -58,4 +58,4 @@ Under Xamarin menu 'View' - choose 'Unit testing'
 
 In Unit Tests pane, Click 'Run All'
 
-https://github.com/NorSoulx/fsharp_unit_testing/images/fsharp.unit.test.001.png
+![Running F# Unit Tests](https://github.com/NorSoulx/fsharp_unit_testing/blob/master/images/fsharp.unit.test.001.png)
