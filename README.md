@@ -57,3 +57,5 @@ Install FsUnit 1.3.10
 Under Xamarin menu 'View' - choose 'Unit testing'
 
 In Unit Tests pane, Click 'Run All'
+
+https://github.com/NorSoulx/fsharp_unit_testing/images/fsharp.unit.test.001.png
