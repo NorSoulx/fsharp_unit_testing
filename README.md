@@ -27,7 +27,7 @@ Create a new solution - e.g .Net library with F#
 Right click 'Packages' - Choose 'Add package' 
 In search field type: 
 
-  * NUnit version:* *
+  * NUnit version:* 
 
 Install NUnit 2.6.4
 
@@ -36,7 +36,7 @@ Install NUnit 2.6.4
 Right click 'Packages' - Choose 'Add package' 
 In search field type: 
 
-* FsUnit version:* *
+* FsUnit version:* 
 
 Install FsUnit 1.3.10
 
