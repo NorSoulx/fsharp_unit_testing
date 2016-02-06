@@ -25,28 +25,32 @@ Create a new solution - e.g .Net library with F#
 * Add NUnit 2.6.4 NuGet package
 
 Right click 'Packages' - Choose 'Add package' 
+
 In search field type: 
 
-  * NUnit version:* 
+* __NUnit version:*__ 
 
-Install NUnit 2.6.4
+Install NUnit 2.6.4 
+
+__version:*__ will list older versions. NUnit 3.x is currently not compatible with Xamarin 5.10.2
+
+#### Install FsUnit 1.3.1.0
 
 * Add FsUnit 1.3.1.0 NuGet package
 
 Right click 'Packages' - Choose 'Add package' 
+
 In search field type: 
 
-* FsUnit version:* 
+* __FsUnit version:*__ 
 
 Install FsUnit 1.3.10
 
-##### Remove Script.fsx and rename Component1.fs
+##### Cleanup: Remove Script.fsx and rename Component1.fs
 
-Remove Script.fsx
-
-Rename Component1.fs to e.g 'RomanNumeral.fs'
-
-Add code and unit tests in RomanNumeral.fs
+* Remove Script.fsx
+* Rename Component1.fs to e.g 'RomanNumeral.fs'
+* Add F# code and unit tests in RomanNumeral.fs
 
 ### Run tests
 
