@@ -44,7 +44,7 @@ In search field type:
 
 * __FsUnit version:*__ 
 
-Install FsUnit 1.3.10
+Install FsUnit 1.3.1.0
 
 ##### Cleanup: Remove Script.fsx and rename Component1.fs
 
