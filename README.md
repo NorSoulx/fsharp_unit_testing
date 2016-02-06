@@ -25,14 +25,18 @@ Create a new solution - e.g .Net library with F#
 * Add NUnit 2.6.4 NuGet package
 
 Right click 'Packages' - Choose 'Add package' 
-In search field type: NUnit version:*
+In search field type: 
+
+  * NUnit version:* *
 
 Install NUnit 2.6.4
 
 * Add FsUnit 1.3.1.0 NuGet package
 
 Right click 'Packages' - Choose 'Add package' 
-In search field type: FsUnit version:*
+In search field type: 
+
+* FsUnit version:* *
 
 Install FsUnit 1.3.10
 
